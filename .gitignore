@@ -1,0 +1,10 @@
+.env
+.flaskenv
+*.pyc
+*.pyo
+venv/
+.venv/
+build/
+.cache/
+.vscode
+__pycache__/
